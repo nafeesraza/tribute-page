@@ -1,0 +1,31 @@
+.container{
+    text-align: center;
+    
+}
+#heading{
+    background-color:black;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+#quotes{
+    padding-bottom: 0px;
+    height: 200px;
+}
+#bio{
+    background-color:black;
+    color: white;
+    padding-top: 150px;
+    padding-bottom: 10px;
+    padding-left: 120px;
+    text-align: left;
+}
+hr {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+.main{
+    display: inline-block;
+    background-color: black;
+}
